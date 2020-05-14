@@ -1,4 +1,4 @@
-# dfwk
+# Version dev
 Yolotron
 
 
@@ -7,5 +7,5 @@ Yolotron
 "sqfdsqdsqd"
 
 ```js
-console.log(`${hello} there`)
+console.log(`${general} kenobi`)
 ```
